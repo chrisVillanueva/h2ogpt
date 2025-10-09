@@ -6,14 +6,8 @@ Query and summarize your documents or just chat with local private GPT LLMs usin
 
 Check out a long CoT Open-o1 open 🍓strawberry🍓 project: https://github.com/pseudotensor/open-strawberry
 
-## Try Enterprise Version
+## Try Enterprise Version for Free
 [Enterprise h2oGPTe](https://h2ogpte.genai.h2o.ai/)
-
-## Live Demo
-
-[![img-small.png](docs/img-small.png) Gradio Demo](https://gpt.h2o.ai/)
-
-[![img-small.png](docs/img-small.png) OpenWebUI Demo](https://gpt-docs.h2o.ai/)
 
 ## Video Demo
 
